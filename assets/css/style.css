@@ -64,7 +64,7 @@ body {
 /* hero image */
 
 #hero-margins {
-    height: 400px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
 
@@ -72,13 +72,13 @@ body {
 }
 
 #hero-image {
-    height: 400px;
-    width: 100%;
-    background: url('../images/#') no-repeat center center;
+    height: 500px;
+    width: 98%;
+    background: url('../images/pexels-karolina-grabowska-4210373.jpg') no-repeat center center;
     margin: 0 auto;
 }
 
-/* cover text */
+/* Book now cover text */
 
 #book-now {
 

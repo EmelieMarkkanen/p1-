@@ -4,6 +4,8 @@
     border: none;
 }
 
+/* remember to set google font-family and correct colors*/ 
+
 body {
     font-family: Arial;
     background-color: #b4c5e0;
@@ -57,4 +59,42 @@ body {
 #menu a:hover {
     border-bottom: 1px solid green;
     color: green;
+}
+
+/* hero image */
+
+#hero-margins {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+
+    position:relative;
+}
+
+#hero-image {
+    height: ;
+    width: ;
+    background: url('#') no-repeat center center;
+}
+
+/* cover text */
+
+#book-now {
+    font-size: 130%;
+    font-family: 
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
 }

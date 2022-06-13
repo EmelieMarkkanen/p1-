@@ -6,4 +6,55 @@
 
 body {
     font-family: Arial;
+    background-color: #b4c5e0;
+    color: blue;
+}
+
+/* Header and links */
+
+#header-logo {
+    float: left;
+    font-size: 200%;
+    font-family: #;
+    margin-left: 30px; 
+    padding-top: 20px;
+    color: inherit;
+    letter-spacing: 4px;
+}
+
+#header-logo:hover {
+    color: green;
+}
+
+#navbar {
+    float:right;
+}
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 5px;   
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu ul {
+    float: right;
+}
+
+#menu li {
+    float: left;
+    list-style: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid green;
+    color: green;
 }

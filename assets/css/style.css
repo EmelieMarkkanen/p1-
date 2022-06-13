@@ -64,37 +64,22 @@ body {
 /* hero image */
 
 #hero-margins {
-    height: 500px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
 
-    position:relative;
+    position: relative;
 }
 
 #hero-image {
-    height: ;
-    width: ;
-    background: url('#') no-repeat center center;
+    height: 400px;
+    width: 100%;
+    background: url('../images/#') no-repeat center center;
+    margin: 0 auto;
 }
 
 /* cover text */
 
 #book-now {
-    font-size: 130%;
-    font-family: 
-    text-transform: uppercase;
-    letter-spacing: 4px;
 
-    width: 300px;
-    height: 200px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgba(241, 109, 107, .7);
-
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
 }

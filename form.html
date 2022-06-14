@@ -28,27 +28,36 @@
             </nav>
         </div>
     </header>
-    <section>
+   
+    <section id="form">
         <div>
-        <form action="https://formdump.codeinstitute.net/" method="POST" class="booking-form">
+        <form action="#" method="POST" class="booking-form">
             <label for="fname">First Name</label>
             <input id="fname" type="text" name="first_name" class="text-input" required>
+
             <label for="lname">Last Name</label>
             <input id="lname" type="text" name="last_name" class="text-input" required>
+            <br>
             <label for="email">Email Address</label>
             <input id="email" type="email" name="email_address" class="text-input" required>
+
             <label for="phone">Phone number</label>
             <input id="phone" type="text" name="phone" class="text-input" required>
+            <br>
             <label for="address">Address</label>
             <input id="address" type="text" name="address" class="text-input" required>
+
             <label for="address2">Address 2</label>
             <input id="address2" type="text" name="address2" class="text-input" required>
+
             <label for="postalcode">Postal code</label>
             <input id="postalcode" type="text" name="postalcode" class="text-input" required>
+
             <label for="city">City</label>
             <input id="city" type="text" name="city" class="text-input" required>
+            <br>
             <label for="rooms">Choice of room</label>
-            <select name="rooms" id="rooms">
+            <select name="rooms" id="rooms" required>
               <optgroup label="Rooms">
                 <option value="regular">Regular</option>
                 <option value="suite">Suite</option>
@@ -57,6 +66,22 @@
                 <option value="tent">Glamping tent</option>
               </optgroup>
             </select>
+            
+                <label for="arrival-date">Date of arrival:</label>
+                <input type="date" id="arrival" name="arrival" required>
+              
+                <label for="departure-date">Date of departure:</label>
+                <input type="date" id="departure" name="departure" required>
+              
+                <label for="quantity">Number of Adults:</label>
+                <input type="number" id="adults" name="adults" min="1" max="9" required>
+
+                <label for="quantity">Number of Children:</label>
+                <input type="number" id="children" name="children" min="0" max="9" required>
+                <br>
+                <textarea name="message" rows="10" cols="100">Requests or additional information</textarea>
+                <br>
+                <input type="submit" value="Send booking request">
         </div>
     </section>
 </body>

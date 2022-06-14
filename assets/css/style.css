@@ -232,3 +232,12 @@ footer p {
 #social-media i:hover {
     color:#6d8b74
 }
+
+/* Booking form */
+
+#form {
+    letter-spacing: 2px;
+    height: 800px;
+    width: 800px;
+    margin: 0 auto;
+}

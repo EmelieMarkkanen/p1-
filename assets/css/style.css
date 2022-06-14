@@ -21,7 +21,7 @@ body {
     margin-left: 30px; 
     padding-top: 20px;
     color: #6d8b74;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
 }
 
 #header-logo:hover {
@@ -107,4 +107,30 @@ body {
 
 #book-now h3 a:hover {
     color: #d0c9c0;
+}
+
+/* footer */
+
+footer {
+    height: 100px;
+    background-color: #d0c9c0;
+    padding-top: 50px;
+}
+
+#social-media {
+    text-align: center;
+    font-size: 250%;
+}
+
+#social-media li {
+    display: inline;
+    padding: 0 10px 0 10px;
+}
+
+#social-media i {
+    color: #5f7161;
+}
+
+#social-media i:hover {
+    color:#6d8b74
 }

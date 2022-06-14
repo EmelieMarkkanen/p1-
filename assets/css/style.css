@@ -25,7 +25,6 @@ h1, h2, h3 {
     font-size: 200%;
     letter-spacing: 3px;
     margin-left: 30px; 
-    padding-top: 20px;
     color: #6d8b74;
 }
 
@@ -198,7 +197,7 @@ h1, h2, h3 {
 }
 
 #contact-info p {
-
+    letter-spacing: 2px;
 }
 
 /* footer */
@@ -208,6 +207,7 @@ footer {
     background-color: #d0c9c0;
     padding-top: 15px;
     padding-bottom: 15px;
+    color: #5f7161;
 }
 
 footer p {

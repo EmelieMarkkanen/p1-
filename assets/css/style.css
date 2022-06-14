@@ -26,6 +26,7 @@ body {
 
 #header-logo:hover {
     color: #5f7161;
+    border-bottom: 1px solid #5f7161;
 }
 
 #navbar {
@@ -74,8 +75,10 @@ body {
 #hero-image {
     height: 500px;
     width: 98%;
-    background: url('../images/pexels-karolina-grabowska-4210373.jpg') no-repeat center center;
+    background: url('../images/pexels-jonathan-petersson-421759.jpg') no-repeat center center;
     margin: 0 auto;
+    object-fit: fill;
+    
 }
 
 /* Book now cover text */
@@ -114,7 +117,7 @@ body {
 
 #information {
     width: 100%;
-    height: 400px;
+    height: 500px;
 }
 
 #hotel-info {
@@ -123,7 +126,7 @@ body {
     font-family: ;
     letter-spacing: 2px;
     width: 35%;
-    height: 300px;
+    height: 390px;
     color: #efead8;
     margin-top: 30px;
     margin-left: 19px;
@@ -150,9 +153,18 @@ body {
 
 /* contact information */
 
+#bottom-section {
+    width: 100%;
+    height: 300px;
+}
+
 #contact-info {
     text-align: center;
     margin-top: 30px;
+}
+
+#contact-info p {
+
 }
 
 /* footer */

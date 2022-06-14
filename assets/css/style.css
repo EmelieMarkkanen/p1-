@@ -242,12 +242,13 @@ footer p {
 
 #form {
     letter-spacing: 2px;
-    text-align: center;
-    height: 500px;
+    line-height: 20px;
+    height: 800px;
     width: 800px;
-    padding: 100px;
+    padding: 50px;
     margin: 0 auto;
     background-color: #d0c9c0;
+    border-radius: 5px;
 
     clear: both;
 
@@ -255,5 +256,9 @@ footer p {
 }
 
 #booking-form {
-    
+    display: inline-table;
+}
+
+.text-input {
+    display: block;
 }

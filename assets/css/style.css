@@ -242,6 +242,18 @@ footer p {
 
 #form {
     letter-spacing: 2px;
-    height: 800px;
+    text-align: center;
+    height: 500px;
     width: 800px;
+    padding: 100px;
+    margin: 0 auto;
+    background-color: #d0c9c0;
+
+    clear: both;
+
+    position: relative;
+}
+
+#booking-form {
+    
 }

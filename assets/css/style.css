@@ -8,8 +8,8 @@
 
 body {
     font-family: Arial;
-    background-color: #b4c5e0;
-    color: blue;
+    background-color: #efead8;
+    color: #6d8b74;
 }
 
 /* Header and links */
@@ -20,12 +20,12 @@ body {
     font-family: #;
     margin-left: 30px; 
     padding-top: 20px;
-    color: inherit;
+    color: #6d8b74;
     letter-spacing: 4px;
 }
 
 #header-logo:hover {
-    color: green;
+    color: #5f7161;
 }
 
 #navbar {
@@ -57,8 +57,8 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid green;
-    color: green;
+    border-bottom: 1px solid #5f7161;
+    color: #5f7161;
 }
 
 /* hero image */

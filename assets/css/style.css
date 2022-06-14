@@ -81,5 +81,25 @@ body {
 /* Book now cover text */
 
 #book-now {
+    font-size: 130%;
+    font-family: ;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    color: #efead8;
 
+    padding-top: 50px;
+    padding-left: 20px;
+
+    background-color: rgba(95, 113, 97, .5);
+
+    bottom: 75px;
+    left: 40px;
+
+    position: absolute;
+}
+
+#book-now h3 {
+    font-size: 200%;
 }

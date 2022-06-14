@@ -97,6 +97,7 @@ h1, h2, h3 {
 
     padding-top: 50px;
     padding-left: 20px;
+    padding-bottom: 20px;
 
     background-color: rgba(95, 113, 97, .5);
 
@@ -106,13 +107,13 @@ h1, h2, h3 {
     position: absolute;
 }
 
-#book-now h3 a {
+#book-now h2 a {
     
-    font-size: 500%;
+    font-size: 300%;
     color: #efead8;
 }
 
-#book-now h3 a:hover {
+#book-now h2 a:hover {
     color: #d0c9c0;
 }
 
@@ -159,7 +160,6 @@ h1, h2, h3 {
 
 #terrace-info h3 {
     font-size: 200%;
-    font-family: ;
     letter-spacing: 2px;
     width: 35%;
     height: 100px;

@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Spa hotel in Stockholm">
+    <meta name="keywords" content="spa, hotel, stockholm, sweden, travel">
+
     <title>Stockholm Spa Hotel</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
@@ -25,5 +28,36 @@
             </nav>
         </div>
     </header>
+    <section>
+        <div>
+        <form action="https://formdump.codeinstitute.net/" method="POST" class="booking-form">
+            <label for="fname">First Name</label>
+            <input id="fname" type="text" name="first_name" class="text-input" required>
+            <label for="lname">Last Name</label>
+            <input id="lname" type="text" name="last_name" class="text-input" required>
+            <label for="email">Email Address</label>
+            <input id="email" type="email" name="email_address" class="text-input" required>
+            <label for="phone">Phone number</label>
+            <input id="phone" type="text" name="phone" class="text-input" required>
+            <label for="address">Address</label>
+            <input id="address" type="text" name="address" class="text-input" required>
+            <label for="address2">Address 2</label>
+            <input id="address2" type="text" name="address2" class="text-input" required>
+            <label for="postalcode">Postal code</label>
+            <input id="postalcode" type="text" name="postalcode" class="text-input" required>
+            <label for="city">City</label>
+            <input id="city" type="text" name="city" class="text-input" required>
+            <label for="rooms">Choice of room</label>
+            <select name="rooms" id="rooms">
+              <optgroup label="Rooms">
+                <option value="regular">Regular</option>
+                <option value="suite">Suite</option>
+              </optgroup>
+              <optgroup label="Tent">
+                <option value="tent">Glamping tent</option>
+              </optgroup>
+            </select>
+        </div>
+    </section>
 </body>
 </html>

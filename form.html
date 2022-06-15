@@ -68,18 +68,19 @@
             </select>
             
                 <label for="arrival-date">Date of arrival:</label>
-                <input type="date" id="arrival" name="arrival" class="text-input" required>
+                <input type="date" id="arrival-date" name="arrival-date" class="text-input" required>
               
                 <label for="departure-date">Date of departure:</label>
-                <input type="date" id="departure" name="departure" class="text-input" required>
+                <input type="date" id="departure-date" name="departure-date" class="text-input" required>
               
-                <label for="quantity">Number of Adults:</label>
+                <label for="adults">Number of Adults:</label>
                 <input type="number" id="adults" name="adults" min="1" max="9" class="text-input" required>
 
-                <label for="quantity">Number of Children:</label>
+                <label for="children">Number of Children:</label>
                 <input type="number" id="children" name="children" min="0" max="9" class="text-input" required>
                 <br>
-                <textarea name="message" rows="6" cols="100" class="text-input">Requests or additional information</textarea>
+                <label for="message">Requests or additional information</label>
+                <textarea name="message" id="message" rows="6" cols="100" class="text-input"></textarea>
                 <br>
                 <input type="submit" value="Send booking request" class="submitbutton">
         </div>

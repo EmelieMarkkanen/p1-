@@ -242,12 +242,13 @@ footer p {
 
 #form {
     letter-spacing: 2px;
+    color: #5f7161;
     line-height: 20px;
     height: 800px;
     width: 800px;
     padding: 50px;
     margin: 0 auto;
-    background-color: #d0c9c0;
+    background-color: rgba(95, 113, 97, .2);
     border-radius: 5px;
 
     clear: both;

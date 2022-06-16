@@ -289,6 +289,10 @@ footer p {
     display: inline-block;
 }
 
+.thanks h1 {
+    font-style: italic;
+}
+
 /* restaurant */
 
 #restaurant {
@@ -312,3 +316,51 @@ position: relative;
     display: inline-block;
     text-align: justify;
 }
+
+/* rooms */
+
+#rooms {
+    letter-spacing: 2px;
+    color: #5f7161;
+    line-height: 20px;
+    height: 600px;
+    width: 80%;
+    padding: 50px;
+    margin: 0 auto;
+    background-color: rgba(95, 113, 97, .2);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+    clear: both;
+    
+    position: relative;
+    }
+    
+    .rooms {
+        display: inline-block;
+        text-align: justify;
+    }
+
+    /* spa */
+
+    #spa {
+        letter-spacing: 2px;
+        color: #5f7161;
+        line-height: 20px;
+        height: 600px;
+        width: 80%;
+        padding: 50px;
+        margin: 0 auto;
+        background-color: rgba(95, 113, 97, .2);
+        border-radius: 5px;
+        margin-bottom: 20px;
+        
+        clear: both;
+        
+        position: relative;
+        }
+        
+        .spa {
+            display: inline-block;
+            text-align: justify;
+        }

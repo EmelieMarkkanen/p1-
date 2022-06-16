@@ -241,7 +241,7 @@ footer p {
 
 /* Booking form */
 
-.form {
+#form {
     letter-spacing: 2px;
     color: #5f7161;
     line-height: 20px;
@@ -319,7 +319,7 @@ position: relative;
 
 /* rooms */
 
-#rooms {
+#room {
     letter-spacing: 2px;
     color: #5f7161;
     line-height: 20px;
@@ -336,9 +336,16 @@ position: relative;
     position: relative;
     }
     
-    .rooms {
+    #room div {
         display: inline-block;
-        text-align: justify;
+        text-align: center;
+        color: #5f7161;
+        width: 33%;
+        height: 600px;
+        padding-top: 20px;
+        border: 4px solid #d0c9c0;
+        border-radius: 5px;
+        box-sizing: border-box;
     }
 
     /* spa */

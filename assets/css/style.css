@@ -19,7 +19,7 @@ h1, h2, h3 {
 
 /* Header and links */
 
-#header-logo {
+.header-logo {
     float: left;
     font-size: 200%;
     letter-spacing: 3px;
@@ -27,46 +27,46 @@ h1, h2, h3 {
     color: #6d8b74;
 }
 
-#header-logo:hover {
+.header-logo:hover {
     color: #5f7161;
 }
 
-#navbar {
+.navbar {
     float:right;
 }
 
-#menu {
+.menu {
     font-size: 120%;
     letter-spacing: 5px;   
 }
 
-#menu, #logo {
+.menu, .logo {
     line-height: 75px;
 }
 
-#menu ul {
+.menu ul {
     float: right;
 }
 
-#menu li {
+.menu li {
     float: left;
     list-style: none;
     margin-right: 30px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid #5f7161;
     color: #5f7161;
 }
 
 /* hero image */
 
-#hero-margins {
+.hero-margins {
     height: 500px;
     width: 100%;
     overflow: hidden;
@@ -74,7 +74,7 @@ h1, h2, h3 {
     position: relative;
 }
 
-#hero-image {
+.hero-image {
     height: 500px;
     width: 98%;
     background: url('../images/pexels-jonathan-petersson-421759.jpg') no-repeat center center;
@@ -120,12 +120,12 @@ h1, h2, h3 {
 
 /* hotel info */
 
-#information {
+.information {
     width: 100%;
     height: 500px;
 }
 
-#hotel-info {
+.hotel-info {
     float: left;
     font-size: 100%;
     letter-spacing: 2px;
@@ -141,15 +141,15 @@ h1, h2, h3 {
     background-color: rgba(95, 113, 97, .4);
 }
 
-#hotel-info h2 {
+.hotel-info h2 {
     font-size: 150%;
 }
 
-#hotel-info h3 {
+.hotel-info h3 {
     padding-top: 30px;
 }
 
-#terrace-info img {
+.terrace-info img {
     float: right;
     width: 58%;
     height: 440px;
@@ -158,7 +158,7 @@ h1, h2, h3 {
     border-radius: 5px;
 }
 /*
-#terrace-info h3 {
+.terrace-info h3 {
     font-size: 200%;
     letter-spacing: 2px;
     width: 35%;
@@ -178,29 +178,29 @@ h1, h2, h3 {
     position: absolute;
 }
 
-#terrace-info a {
+.terrace-info a {
     text-decoration: none;
     color: inherit;
 }
 
-#terrace-info a:hover {
+.terrace-info a:hover {
     color: #d0c9c0;
 }
 */
 
 /* contact information */
 
-#bottom-section {
+.bottom-section {
     width: 100%;
     height: 300px;
 }
 
-#contact-info {
+.contact-info {
     text-align: center;
     margin-top: 30px;
 }
 
-#contact-info p {
+.contact-info p {
     letter-spacing: 2px;
 }
 
@@ -221,21 +221,21 @@ footer p {
     letter-spacing: 2px;
 }
 
-#social-media {
+.social-media {
     text-align: center;
     font-size: 250%;
 }
 
-#social-media li {
+.social-media li {
     display: inline;
     padding: 0 10px 0 10px;
 }
 
-#social-media i {
+.social-media i {
     color: #5f7161;
 }
 
-#social-media i:hover {
+.social-media i:hover {
     color:#6d8b74
 }
 

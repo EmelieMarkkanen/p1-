@@ -44,8 +44,9 @@ I have used [Pexels](https://www.pexels.com/sv-se/) as a source for images.
 
 ## Wireframes
 
-I created the wireframe for this project using Balsamiq. 
-[PDF](/workspace/p1-/assets/pdf/Stockholm spa hotel wireframe.pdf)
+I created the wireframe for this project using Balsamiq.
+<br>
+[View PDF of wireframe here](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/Stockholm%20spa%20hotel%20wireframe.pdf)
 
 ## Technology
 

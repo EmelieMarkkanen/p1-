@@ -20,14 +20,14 @@ The prospective guest
 
 - As a prospective guest I would like to be able to read information about the hotel and the experience it offers.
 - As a prospective guest I would like to be able to book a room at the hotel. 
-- As a prospecive guest I would like to be able to see images of the hotel rooms and what they contain.
+- As a prospecive guest I would like to be able to see images of the hotel rooms, prices and what they contain.
 - As a prospective guest I would like to see images and find information about the hotel restaurant and it’s menu.
 - As a prospective guest I would like to see images and find information about the hotel spa experience and examples of treatment options. 
 - As a prospective guest I would like to see contact information to the hotel such as address, email and phonenumber to the hotel. 
 
 ## Typography and color scheme 
 
-### Typoghraphy
+### Typography
 The typography used on the website consists of two fonts, Domine for headings and Lato for paragraph text, imported from Google fonts - https://fonts.google.com/
 I’ve used Domine to highlight the headings and logo of the hotel and complementing that with Lato for the overall text, to give a nice contrast between the two. 
 
@@ -44,7 +44,8 @@ I have used [Pexels](https://www.pexels.com/sv-se/) as a source for images.
 
 ## Wireframes
 
-Placeholder for information about wireframe used
+I created the wireframe for this project using Balsamiq. 
+[PDF](/workspace/p1-/assets/pdf/Stockholm spa hotel wireframe.pdf)
 
 ## Technology
 

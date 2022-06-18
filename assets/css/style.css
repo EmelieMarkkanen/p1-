@@ -283,7 +283,7 @@ footer p {
 .room {
     letter-spacing: 2px;
     color: #5f7161;
-    line-height: 20px;
+    
     height: 40em;
     width: 80%;
     padding: 1em;
@@ -303,15 +303,16 @@ footer p {
     color: #5f7161;
     width: 33%;
     height: 40em;
-    padding-top: 1em;
+    padding: 1em 0 1em 0;
     border: 4px solid #d0c9c0;
     border-radius: 5px;
     box-sizing: border-box;
 }
 
 .room div img {
-    width: 80%;
-    height: 80%;
+    width: 75%;
+    height: 75%;
+    border-radius: 5px;
 }
 
 /* spa */

@@ -23,7 +23,7 @@ h1, h2, h3 {
     float: left;
     font-size: 200%;
     letter-spacing: 3px;
-    margin-left: 30px; 
+    margin-left: 2%; 
     color: #6d8b74;
 }
 
@@ -40,10 +40,6 @@ h1, h2, h3 {
     letter-spacing: 5px;   
 }
 
-.menu, .logo {
-    line-height: 75px;
-}
-
 .menu ul {
     float: right;
 }
@@ -51,7 +47,7 @@ h1, h2, h3 {
 .menu li {
     float: left;
     list-style: none;
-    margin-right: 30px;
+    margin-right: 5px;
 }
 
 .menu a {

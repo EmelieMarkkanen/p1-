@@ -18,12 +18,12 @@ The website consists of a landing page with and introduction to the hotel and a 
 
 The prospective guest
 
-As a prospective guest I would like to be able to read information about the hotel and the experience it offers.
-As a prospective guest I would like to be able to book a room at the hotel. 
-As a prospecive guest I would like to be able to see images of the hotel rooms and what they contain.
-As a prospective guest I would like to see images and find information about the hotel restaurant and it’s menu.
-As a prospective guest I would like to see images and find information about the hotel spa experience and examples of treatment options. 
-As a prospective guest I would like to see contact information to the hotel such as address, email and phonenumber to the hotel. 
+- As a prospective guest I would like to be able to read information about the hotel and the experience it offers.
+- As a prospective guest I would like to be able to book a room at the hotel. 
+- As a prospecive guest I would like to be able to see images of the hotel rooms and what they contain.
+- As a prospective guest I would like to see images and find information about the hotel restaurant and it’s menu.
+- As a prospective guest I would like to see images and find information about the hotel spa experience and examples of treatment options. 
+- As a prospective guest I would like to see contact information to the hotel such as address, email and phonenumber to the hotel. 
 
 ## Typography and color scheme 
 

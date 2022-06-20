@@ -10,7 +10,8 @@ I have decided to create a website for a fictional hotel, Stockholm Spa Hotel. T
 
 The website consists of a landing page with and introduction to the hotel and a link to a booking form. It also have links to three separate pages with information about the hotels room options, restaurant and bar options, and spa experience. 
 
-## Placeholder for link to live website
+## Live project website
+[Live website](https://emeliemarkkanen.github.io/p1-stockholm-spa-hotel/)
 
 ## Placeholder for screenshots of website
 

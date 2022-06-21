@@ -369,3 +369,34 @@ footer p {
     display: inline-block;
     text-align: justify;
 }
+
+.spa {
+    letter-spacing: 2px;
+    color: #5f7161;
+    line-height: 20px;
+    height: 40em;
+    width: 80%;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: rgba(95, 113, 97, .2);
+    border-radius: 5px;
+    margin-bottom: 2em;
+    text-align: center;
+    clear: both;
+}
+
+.spatreatments {
+    display: inline-block;
+    text-align: left;
+    border-radius: 5px;
+    border: 4px solid #d0c9c0;
+    box-sizing: border-box;
+    padding: 0 1em 0 1em;
+}
+
+.spatreatments img {
+    float: left;
+    width: 50%;
+    padding: 0.5rem;
+    border-radius: 5px;
+}

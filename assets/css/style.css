@@ -261,20 +261,29 @@ footer p {
     line-height: 20px;
     height: 40em;
     width: 80%;
-    padding: 2em;
+    padding: 1em;
     margin: 0 auto;
     background-color: rgba(95, 113, 97, .2);
     border-radius: 5px;
     margin-bottom: 2em;
-
+    text-align: center;
     clear: both;
-
-    position: relative;
 }
 
 .restaurantinfo {
     display: inline-block;
-    text-align: justify;
+    text-align: left;
+    border-radius: 5px;
+    border: 4px solid #d0c9c0;
+    box-sizing: border-box;
+    padding: 0 1em 0 1em;
+}
+
+.restaurantinfo img {
+    float: left;
+    width: 50%;
+    padding: 0.5rem;
+    border-radius: 5px;
 }
 
 /* rooms */

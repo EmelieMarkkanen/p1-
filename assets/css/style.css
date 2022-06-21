@@ -17,7 +17,7 @@ h3 {
     font-family: Domine, serif;
 }
 
-/* Header and links */
+/* Styling for header and navbar */
 
 .header-logo {
     float: left;
@@ -61,7 +61,7 @@ h3 {
     color: #5f7161;
 }
 
-/* hero image */
+/* Styling for hero image */
 
 .hero-margins {
     height: 500px;
@@ -80,7 +80,7 @@ h3 {
     border-radius: 5px;
 }
 
-/* Book now cover text */
+/* Styling for book now cover text */
 
 #book-now {
     font-size: 130%;
@@ -105,7 +105,7 @@ h3 {
     color: #d0c9c0;
 }
 
-/* Booking form */
+/* Styling for booking form */
 
 .form {
     letter-spacing: 2px;
@@ -131,7 +131,7 @@ h3 {
     display: block;
 }
 
-/* Thank you reply */
+/* Styling for thank you reply for booking form */
 
 .reply {
     letter-spacing: 2px;
@@ -158,7 +158,7 @@ h3 {
     font-style: italic;
 }
 
-/* hotel info */
+/* Styling for hotel information and image section on landing page */
 
 .information {
     width: 100%;
@@ -198,7 +198,7 @@ h3 {
     border-radius: 5px;
 }
 
-/* contact information */
+/* Styling for contact information section */
 
 .bottom-section {
     width: 100%;
@@ -215,7 +215,7 @@ h3 {
     letter-spacing: 2px;
 }
 
-/* footer */
+/* Styling for footer */
 
 footer {
     height: 10rem;
@@ -252,7 +252,7 @@ footer p {
     color: #6d8b74
 }
 
-/* restaurant */
+/* Styling for eat page */
 
 .restaurant {
     letter-spacing: 2px;
@@ -309,7 +309,7 @@ footer p {
     color: #d0c9c0;
 }
 
-/* rooms */
+/* Styling for sleep page */
 
 .room {
     letter-spacing: 2px;
@@ -346,29 +346,7 @@ footer p {
     border-radius: 5px;
 }
 
-/* spa */
-
-.spa {
-    letter-spacing: 2px;
-    color: #5f7161;
-    line-height: 20px;
-    height: 40em;
-    width: 80%;
-    padding: 2em;
-    margin: 0 auto;
-    background-color: rgba(95, 113, 97, .2);
-    border-radius: 5px;
-    margin-bottom: 2em;
-
-    clear: both;
-
-    position: relative;
-}
-
-.spatreatments {
-    display: inline-block;
-    text-align: justify;
-}
+/* Styling for relax page */
 
 .spa {
     letter-spacing: 2px;

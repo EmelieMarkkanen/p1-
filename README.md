@@ -30,7 +30,9 @@ The prospective guest
 
 ### Typography
 The typography used on the website consists of two fonts, Domine for headings and Lato for paragraph text, imported from Google fonts - https://fonts.google.com/
-I’ve used Domine to highlight the headings and logo of the hotel and complementing that with Lato for the overall text, to give a nice contrast between the two. 
+I’ve used Domine to highlight the headings and logo of the hotel and complementing that with Lato for the overall text, to give a nice contrast between the two.
+
+For the PDFs in the README.md and on the website I used the fonts Aldhabi for headings and Arial Nova for paragraphs. 
 
 ### Color scheme
 I’ve used a color scheme of four main colors through out the website. I chose the color scheme to reflect the content of the website and the overall inspiration of the hotel, eg the Stockholm archipelago. 

@@ -314,7 +314,7 @@ footer p {
 .room {
     letter-spacing: 2px;
     color: #5f7161;
-    
+
     height: 40em;
     width: 80%;
     padding: 1em;
@@ -377,4 +377,75 @@ footer p {
     width: 50%;
     padding: 0.5rem;
     border-radius: 5px;
+}
+
+/* Media queries */
+
+/* For medium to large screen sizes from 951px and up */
+
+@media (min-width: 951px) {
+
+    .header-logo {
+        display: inline-block;
+    }
+
+    .header-icon {
+        display: none;
+    }
+}
+
+/* For medium screen sizes from 950px wide and down */
+
+@media only screen and (max-width: 950px) {
+
+    .hero-image {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #book-now {
+        margin: 0 auto;
+    }
+
+    #book-now h2 {
+        font-size: smaller;
+    }
+
+    .hotel-info {
+        height: 25em;
+        width: 90%;
+    }
+
+    .terrace img {
+        display: none;
+    }
+
+    .header-logo {
+        display: none;
+    }
+
+    .header-icon {
+        display: inline-block;
+        padding-left: 1em;
+        color: #6d8b74;
+        margin: 0;
+        font-size: 300%;
+    }
+
+    .header-icon:hover {
+        color: #5f7161;
+    }
+
+    .menu {
+        margin: 0;
+    }
+
+    .navbar {
+        padding-bottom: 1rem;
+    }
+
+    footer {
+        width: 100%;
+        height: 50%;
+    }
 }

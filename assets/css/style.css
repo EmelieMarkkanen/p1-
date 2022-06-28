@@ -368,9 +368,9 @@ footer p {
 
 /* Media queries */
 
-/* For medium to large screen sizes from 951px and up */
+/* For medium to large screen sizes from 1051px and up */
 
-@media (min-width: 951px) {
+@media (min-width: 1051px) {
 
     .header-logo {
         display: inline-block;
@@ -381,9 +381,9 @@ footer p {
     }
 }
 
-/* For medium screen sizes from 950px wide and down */
+/* For medium screen sizes from 1050px wide and down */
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 1050px) {
 
     .hero-image {
         width: 100%;
@@ -434,5 +434,27 @@ footer p {
     footer {
         width: 100%;
         height: 50%;
+    }
+
+    .restaurantinfo {
+        float: left;
+        box-sizing: border-box;
+        padding: 0 1em 0 1em;
+        color: #efead8;
+        background-color: rgba(95, 113, 97, .5);
+        padding: 1em;
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    .spatreatments {
+        float: left;
+        box-sizing: border-box;
+        padding: 0 1em 0 1em;
+        color: #efead8;
+        background-color: rgba(95, 113, 97, .5);
+        padding: 1em;
+        width: 100%;
+        border-radius: 5px;
     }
 }

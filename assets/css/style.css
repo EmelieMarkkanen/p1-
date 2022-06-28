@@ -255,7 +255,6 @@ footer p {
 
 .restaurant {
     letter-spacing: 2px;
-    color: #5f7161;
     line-height: 20px;
     height: 40em;
     width: 80%;
@@ -269,44 +268,25 @@ footer p {
 }
 
 .restaurantinfo {
-    display: inline-block;
-    text-align: left;
-    border-radius: 5px;
-    border: 4px solid #d0c9c0;
+    float: right;
+    text-align: ;
     box-sizing: border-box;
     padding: 0 1em 0 1em;
-}
-
-/*
-.restaurant img {
-    margin: 0 auto;
-    width: 100%;
-    overflow: hidden;
-    border-radius: 5px;
-    
-}
-*/
-#menu {
-    font-size: 130%;
-    letter-spacing: 2px;
-    text-align: center;
-    width: 25em;
-    height: 10em;
     color: #efead8;
-    border-radius: 5px;
     background-color: rgba(95, 113, 97, .5);
-    top: 35%;
-    left: 57%;
-    position: absolute;
+    padding: 1em;
+    width: 33%;
+    border-radius: 5px;
 }
 
-#menu h2 a {
-
-    font-size: 300%;
+.menu-link a {
+    font-size: 150%;
+    letter-spacing: 2px;
     color: #efead8;
+    text-decoration: none;
 }
 
-#menu h2 a:hover {
+.menu-link a:hover {
     color: #d0c9c0;
 }
 

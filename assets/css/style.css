@@ -331,13 +331,12 @@ footer p {
 
 .spa {
     letter-spacing: 2px;
-    color: #5f7161;
     line-height: 20px;
     height: 40em;
     width: 80%;
     padding: 1em;
     margin: 0 auto;
-    background-color: rgba(95, 113, 97, .2);
+    background: url('../images/pexels-karolina-grabowska-4210373.jpg') no-repeat center;
     border-radius: 5px;
     margin-bottom: 2em;
     text-align: center;
@@ -345,19 +344,26 @@ footer p {
 }
 
 .spatreatments {
-    display: inline-block;
-    text-align: left;
-    border-radius: 5px;
-    border: 4px solid #d0c9c0;
+    float: left;
+    text-align: ;
     box-sizing: border-box;
     padding: 0 1em 0 1em;
+    color: #efead8;
+    background-color: rgba(95, 113, 97, .5);
+    padding: 1em;
+    width: 33%;
+    border-radius: 5px;
 }
 
-.spatreatments img {
-    float: left;
-    width: 50%;
-    padding: 0.5rem;
-    border-radius: 5px;
+.spatreatments-link a {
+    font-size: 150%;
+    letter-spacing: 2px;
+    color: #efead8;
+    text-decoration: none;
+}
+
+.spatreatments-link a:hover {
+    color: #d0c9c0;
 }
 
 /* Media queries */

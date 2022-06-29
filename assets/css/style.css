@@ -116,9 +116,7 @@ h3 {
     margin: 0 auto;
     background-color: rgba(95, 113, 97, .2);
     border-radius: 5px;
-
     clear: both;
-
     position: relative;
 }
 
@@ -174,9 +172,7 @@ h3 {
     margin-top: 2em;
     margin-left: 1em;
     border-radius: 5px;
-
     padding: 1em;
-
     background-color: rgba(95, 113, 97, .4);
 }
 
@@ -295,7 +291,7 @@ footer p {
 .room {
     letter-spacing: 2px;
     color: #5f7161;
-    height: 120em;
+    height: auto;
     width: 66%;
     padding: 1em;
     margin: 0 auto;
@@ -311,7 +307,7 @@ footer p {
     text-align: center;
     color: #5f7161;
     width: 100%;
-    height: 40em;
+    height: auto;
     padding: 1em 0 1em 0;
     border: none;
     border-radius: 5px;
@@ -320,8 +316,7 @@ footer p {
 }
 
 .room div img {
-    width: 50%;
-    height: 80%;
+    width: auto;
     border-radius: 5px;
 }
 
@@ -377,6 +372,18 @@ footer p {
     .header-icon {
         display: none;
     }
+
+    #message2 {
+        display: none;
+    }
+
+    .message2 {
+        display: none;
+    }
+
+    #message1 {
+        display: inline-block;
+    }
 }
 
 /* For medium screen sizes from 1050px wide and down */
@@ -396,9 +403,26 @@ footer p {
         font-size: smaller;
     }
 
-    .hotel-info {
+    .information {
         height: 25em;
+    }
+
+    .hotel-info {
+        height: auto;
         width: 90%;
+    }
+
+    #message1 {
+        display: none;
+    }
+
+    .message1 {
+        display: none;
+    }
+
+    #message2 {
+        display: inline-block;
+        clear: both;
     }
 
     .terrace img {
@@ -459,7 +483,7 @@ footer p {
     .room {
     letter-spacing: 2px;
     color: #5f7161;
-    height: 120em;
+    height: auto;
     width: 66%;
     padding: 1em;
     margin: 0 auto;
@@ -475,7 +499,7 @@ footer p {
     text-align: center;
     color: #5f7161;
     width: 100%;
-    height: 40em;
+    height: auto;
     padding: 1em 0 1em 0;
     border: none;
     border-radius: 5px;
@@ -484,8 +508,15 @@ footer p {
 }
 
 .room div img {
-    width: 50%;
-    height: 80%;
+    width: auto;
+    height:;
     border-radius: 5px;
 }
+}
+
+/* For small screen sizes from 1049px wide and down */
+
+@media only screen and (max-width: 1049px) {
+
+    /* form - sleep - index */
 }

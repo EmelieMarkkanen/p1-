@@ -316,7 +316,7 @@ footer p {
 }
 
 .room div img {
-    width: auto;
+    width: 50%;
     border-radius: 5px;
 }
 
@@ -409,7 +409,8 @@ footer p {
 
     .hotel-info {
         height: auto;
-        width: 90%;
+        width: auto;
+        margin: 1em;
     }
 
     #message1 {
@@ -508,21 +509,46 @@ footer p {
 }
 
 .room div img {
-    width: auto;
-    height:;
+    width: 75%;
     border-radius: 5px;
 }
 }
 
-/* For small screen sizes from 600px wide and down */
+/* For small screen sizes from 570px wide and down */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 570px) {
 
     /* form - sleep - index 
 
     index - remove symbol logo, size hotel info
 
-    form - size 
+    form - size */
 
-    sleep - size, img */
+    .information {
+        height: 30em;
+    }
+
+    .hotel-info {
+        width: auto;
+        height: auto;
+        margin: 1em 0 1em 0;
+    }
+
+    .form {
+        width: 75%;
+        margin: auto;
+    }
+
+    .reply {
+        width: 75%;
+        margin: auto;
+    }
+
+    .header-icon {
+        display: none;
+    }
+
+    .navbar li {
+        clear: none;
+    }
 }

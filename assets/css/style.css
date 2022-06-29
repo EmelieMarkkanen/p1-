@@ -514,9 +514,15 @@ footer p {
 }
 }
 
-/* For small screen sizes from 1049px wide and down */
+/* For small screen sizes from 600px wide and down */
 
-@media only screen and (max-width: 1049px) {
+@media only screen and (max-width: 600px) {
 
-    /* form - sleep - index */
+    /* form - sleep - index 
+
+    index - remove symbol logo, size hotel info
+
+    form - size 
+
+    sleep - size, img */
 }

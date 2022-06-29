@@ -295,35 +295,33 @@ footer p {
 .room {
     letter-spacing: 2px;
     color: #5f7161;
-
-    height: 40em;
-    width: 80%;
+    height: 120em;
+    width: 66%;
     padding: 1em;
     margin: 0 auto;
     background-color: rgba(95, 113, 97, .2);
     border-radius: 5px;
     margin-bottom: 2em;
-
     clear: both;
-
     position: relative;
 }
 
 .room div {
-    display: inline-block;
+    display: ;
     text-align: center;
     color: #5f7161;
-    width: 33%;
+    width: 100%;
     height: 40em;
     padding: 1em 0 1em 0;
-    border: 4px solid #d0c9c0;
+    border: none;
     border-radius: 5px;
     box-sizing: border-box;
+    clear: both;
 }
 
 .room div img {
-    width: 75%;
-    height: 75%;
+    width: 50%;
+    height: 80%;
     border-radius: 5px;
 }
 
@@ -457,4 +455,37 @@ footer p {
         width: 100%;
         border-radius: 5px;
     }
+
+    .room {
+    letter-spacing: 2px;
+    color: #5f7161;
+    height: 120em;
+    width: 66%;
+    padding: 1em;
+    margin: 0 auto;
+    background-color: rgba(95, 113, 97, .2);
+    border-radius: 5px;
+    margin-bottom: 2em;
+    clear: both;
+    position: relative;
+}
+
+.room div {
+    display: ;
+    text-align: center;
+    color: #5f7161;
+    width: 100%;
+    height: 40em;
+    padding: 1em 0 1em 0;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+    clear: both;
+}
+
+.room div img {
+    width: 50%;
+    height: 80%;
+    border-radius: 5px;
+}
 }

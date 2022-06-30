@@ -386,7 +386,7 @@ footer p {
 }
 
 .page-not-found-h2 a:hover {
-    color: #d0c9c0;
+    color: #5f7161;
 }
 
 /* Media queries */
@@ -547,12 +547,6 @@ footer p {
 /* For small screen sizes from 570px wide and down */
 
 @media only screen and (max-width: 570px) {
-
-    /* form - sleep - index 
-
-    index - remove symbol logo, size hotel info
-
-    form - size */
 
     .information {
         height: 30em;

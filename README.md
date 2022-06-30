@@ -92,7 +92,7 @@ The website contain information about the hotel, location, restaurant options, r
 
 I created the wireframe for this project using Balsamiq.
 <br>
-[View PDF of wireframe here](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/Stockholm%20spa%20hotel%20wireframe.pdf)
+[View PDF of wireframe here](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/pdf/Stockholm%20spa%20hotel%20wireframe.pdf)
 
 ## Technology
 

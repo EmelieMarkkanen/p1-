@@ -8,12 +8,33 @@ Stockholm Spa Hotel is a static front end website aimed to show the technologies
 
 I have decided to create a website for a fictional hotel, Stockholm Spa Hotel. The website is built using what I’ve learned during the course so far and based on the priciples of good user experience to create a responsive and functional website. 
 
-The website consists of a landing page with and introduction to the hotel and a link to a booking form. It also have links to three separate pages with information about the hotels room options, restaurant and bar options, and spa experience. 
+The website consists of a landing page with an introduction to the hotel and a link to a booking form. It also have links to three separate pages with information about the hotels room options, restaurant and bar options, and spa experience. 
 
 ## Live project website
 [Live website](https://emeliemarkkanen.github.io/p1-stockholm-spa-hotel/)
 
-## Placeholder for screenshots of website
+## ReadMe table of contents
+
+- [Milestone project 1](#milestone-projekt-1)
+- [Live projekt website](#live-projekt-website)
+- [Screenshots of website](screenshots-of-webiste)
+- [User stories](#user-stories)
+- [Typography and color scheme](#typography-and-color-scheme)
+    - [Typography](#typography)
+    - [Color scheme](#color-scheme)
+    - [Imagery](#imagery)
+- [Features](#features)
+    - [Responsive](#responsive)
+    - [Booking](#booking)
+    - [Social](#social)
+    - [Information](#information)
+- [Wireframes](#wireframes)
+- [Technology](#technology)
+    - [Languages used](#languages-used)
+- [External sources used](#external-sources-used)
+
+
+## Screenshots of website
 
 ## User stories
 
@@ -29,10 +50,12 @@ The prospective guest
 ## Typography and color scheme 
 
 ### Typography
-The typography used on the website consists of two fonts, Domine for headings and Lato for paragraph text, imported from Google fonts - https://fonts.google.com/
+The typography used on the website consists of two fonts, Domine for headings and Lato for paragraph text, imported from [Google fonts](https://fonts.google.com/).
 I’ve used Domine to highlight the headings and logo of the hotel and complementing that with Lato for the overall text, to give a nice contrast between the two.
 
 For the PDFs in the README.md and on the website I used the fonts Aldhabi for headings and Arial Nova for paragraphs. 
+
+I have also used some symbols from [Font Awesome](https://fontawesome.com/) for decorative and social media links and the hotel logo on smaller screens.
 
 ### Color scheme
 I’ve used a color scheme of four main colors through out the website. I chose the color scheme to reflect the content of the website and the overall inspiration of the hotel, eg the Stockholm archipelago. 
@@ -44,6 +67,16 @@ The color scheme suggestion was found at Colorhunt.
 I wanted the imagery of the webiste to reflect the content and give a feeling for the inspiration of the hotel, eg the Stockholm archipelago. I've used images that give a sense of the sea and forest, with the images matching the color scheme of the website. 
 Each page have one or several images to convey what the section is about. 
 I have used [Pexels](https://www.pexels.com/sv-se/) as a source for images. 
+
+## Features
+
+### Responsive
+
+### Booking
+
+### Social
+
+### Information
 
 ## Wireframes
 
@@ -60,14 +93,11 @@ For this project I’ve used HTML5 and CSS.
 - [CSS](https://sv.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 
-### Images: 
-- [Pexels](https://www.pexels.com/sv-se/)
-
-### Sources: 
-- [Colorhunt](https://colorhunt.co/palette/5f71616d8b74efead8d0c9c0)
-- https://www.w3resource.com/icon/font-awesome/brand-icons/tripadvisor.php (tripadvisor icon)
-- https://fontawesome.com/
-- https://fonts.google.com/
-- https://www.w3schools.com/html/html_form_elements.asp
+####  External sources used: 
+- [Pexels](https://www.pexels.com/sv-se/) - Images
+- [Colorhunt](https://colorhunt.co/palette/5f71616d8b74efead8d0c9c0) - Color scheme suggestion
+- [w3resource](https://www.w3resource.com/icon/font-awesome/brand-icons/tripadvisor.php) - Tripadvisor icon
+- [Font Awesome](https://fontawesome.com/) - Icons
+- [Google Fonts](https://fonts.google.com/) - Fonts
 
 

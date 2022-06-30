@@ -11,7 +11,7 @@ I have decided to create a website for a fictional hotel, Stockholm Spa Hotel. T
 The website consists of a landing page with an introduction to the hotel and a link to a booking form. It also have links to three separate pages with information about the hotels room options, restaurant and bar options, and spa experience. 
 
 ## Live project website
-[Live website](https://emeliemarkkanen.github.io/p1-stockholm-spa-hotel/)
+[View live website here](https://emeliemarkkanen.github.io/p1-stockholm-spa-hotel/)
 
 ## ReadMe table of contents
 
@@ -31,7 +31,10 @@ The website consists of a landing page with an introduction to the hotel and a l
 - [Wireframes](#wireframes)
 - [Technology](#technology)
     - [Languages used](#languages-used)
-- [External sources used](#external-sources-used)
+- [Credits](#credits)
+    - [Content](#content)
+    - [Acknowledgement](#acknowledgement)
+    - [External sources used](#external-sources-used)
 
 
 ## Screenshots of website
@@ -60,8 +63,8 @@ I have also used some symbols from [Font Awesome](https://fontawesome.com/) for 
 ### Color scheme
 I’ve used a color scheme of four main colors through out the website. I chose the color scheme to reflect the content of the website and the overall inspiration of the hotel, eg the Stockholm archipelago. 
 The color scheme consist of two hues of green, #5f7161 and #6d8b74, a hue of gray, #d0c9c0 and a hue of beige, #efead8. 
-The overall background and some text of the website is beige, while the gray is used for the footer, the booking form hover link and for border features. The green hues are used for background in some sections, text and links. Different hues of green is used to highlight hovering over links. 
-The color scheme suggestion was found at Colorhunt. 
+The overall background and some text of the website is beige, while the gray is used for the footer and the booking form hover link. The green hues are used for background in some sections, text and links. Different hues of green is used to highlight hovering over links. 
+The color scheme suggestion was found at [Colorhunt](https://colorhunt.co/palette/5f71616d8b74efead8d0c9c0). 
 
 ### Imagery
 I wanted the imagery of the webiste to reflect the content and give a feeling for the inspiration of the hotel, eg the Stockholm archipelago. I've used images that give a sense of the sea and forest, with the images matching the color scheme of the website. 
@@ -93,11 +96,19 @@ For this project I’ve used HTML5 and CSS.
 - [CSS](https://sv.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 
+## Credits
+
+#### Content 
+All content is written by me
+
+#### Acknowledgement
+- Code institute for excellent teaching
+- My mentor Rohit for valuable input
+- Caliban cat for emotional support and cuddle breaks
+
 ####  External sources used: 
 - [Pexels](https://www.pexels.com/sv-se/) - Images
 - [Colorhunt](https://colorhunt.co/palette/5f71616d8b74efead8d0c9c0) - Color scheme suggestion
 - [w3resource](https://www.w3resource.com/icon/font-awesome/brand-icons/tripadvisor.php) - Tripadvisor icon
 - [Font Awesome](https://fontawesome.com/) - Icons
 - [Google Fonts](https://fonts.google.com/) - Fonts
-
-

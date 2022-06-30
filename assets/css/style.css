@@ -416,7 +416,7 @@ footer p {
     }
 }
 
-/* For medium screen sizes from 1050px wide and down */
+/* For screen sizes from 1050px wide and down */
 
 @media only screen and (max-width: 1050px) {
 
@@ -580,5 +580,64 @@ footer p {
 /* For small screen sizes from 400px wide and down */
 
 @media only screen and (max-width: 400px) {
+
+    .information {
+        height: 40em;
+    }
+
+    .hotel-info {
+        width: auto;
+        height: auto;
+        margin: 1em 0 1em 0;
+    }
+
+    .spatreatments {
+        float: left;
+        box-sizing: border-box;
+        padding: 0 1em 0 1em;
+        color: #efead8;
+        background-color: rgba(95, 113, 97, .5);
+        padding: 1em;
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    .spa {
+        letter-spacing: 2px;
+        line-height: 20px;
+        height: 50em;
+        width: 80%;
+        padding: 1em;
+        margin: 0 auto;
+        background: url('../images/pexels-karolina-grabowska-4210373.jpg') no-repeat center;
+        border-radius: 5px;
+        margin-bottom: 2em;
+        text-align: center;
+        clear: both;
+    }
+
+    .restaurant {
+        letter-spacing: 2px;
+        line-height: 20px;
+        height: 50em;
+        width: 80%;
+        padding: 1em;
+        margin: 0 auto;
+        background: url('../images/pexels-elevate-1267320\ \(1\).jpg') no-repeat center;
+        border-radius: 5px;
+        margin-bottom: 2em;
+        text-align: center;
+        clear: both;
+    }
     
+    .restaurantinfo {
+        float: right;
+        box-sizing: border-box;
+        padding: 0 1em 0 1em;
+        color: #efead8;
+        background-color: rgba(95, 113, 97, .5);
+        padding: 1em;
+        width: 100%;
+        border-radius: 5px;
+    }
 }

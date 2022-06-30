@@ -544,7 +544,7 @@ footer p {
     }
 }
 
-/* For small screen sizes from 570px wide and down */
+/* For medium to small screen sizes from 570px wide and down */
 
 @media only screen and (max-width: 570px) {
 
@@ -575,4 +575,10 @@ footer p {
     .navbar li {
         clear: none;
     }
+}
+
+/* For small screen sizes from 400px wide and down */
+
+@media only screen and (max-width: 400px) {
+    
 }

@@ -1,5 +1,7 @@
 /* Font from https://fonts.google.com/ */
-@import url('https://fonts.googleapis.com/css2?family=Domine:wght@600&family=Lato:wght@300&display=swap') * {
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@600&family=Lato:wght@300&display=swap') 
+
+* {
     margin: 0;
     padding: 0;
     border: none;
@@ -166,7 +168,7 @@ h3 {
     float: left;
     font-size: 100%;
     letter-spacing: 2px;
-    width: 35%;
+    width: 38%;
     height: 25em;
     color: #efead8;
     margin-top: 2em;

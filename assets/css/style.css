@@ -359,6 +359,31 @@ footer p {
     color: #d0c9c0;
 }
 
+/* Styling for 404 page */
+
+.page-not-found {
+    letter-spacing: 2px;
+    text-align: justify center;
+    color: #5f7161;
+    line-height: 20px;
+    height: 20%;
+    width: 33%;
+    padding: 2em;
+    margin: 0 auto;
+    background-color: rgba(95, 113, 97, .2);
+    border-radius: 5px;
+    clear: both;
+    position: relative;
+}
+
+.page-not-found-div {
+    display: inline-block;
+}
+
+.page-not-found-div h1 {
+    font-style: italic;
+}
+
 /* Media queries */
 
 /* For medium to large screen sizes from 1051px and up */
@@ -482,36 +507,36 @@ footer p {
     }
 
     .room {
-    letter-spacing: 2px;
-    color: #5f7161;
-    height: auto;
-    width: 66%;
-    padding: 1em;
-    margin: 0 auto;
-    background-color: rgba(95, 113, 97, .2);
-    border-radius: 5px;
-    margin-bottom: 2em;
-    clear: both;
-    position: relative;
-}
+        letter-spacing: 2px;
+        color: #5f7161;
+        height: auto;
+        width: 66%;
+        padding: 1em;
+        margin: 0 auto;
+        background-color: rgba(95, 113, 97, .2);
+        border-radius: 5px;
+        margin-bottom: 2em;
+        clear: both;
+        position: relative;
+    }
 
-.room div {
-    display: ;
-    text-align: center;
-    color: #5f7161;
-    width: 100%;
-    height: auto;
-    padding: 1em 0 1em 0;
-    border: none;
-    border-radius: 5px;
-    box-sizing: border-box;
-    clear: both;
-}
+    .room div {
+        display: ;
+        text-align: center;
+        color: #5f7161;
+        width: 100%;
+        height: auto;
+        padding: 1em 0 1em 0;
+        border: none;
+        border-radius: 5px;
+        box-sizing: border-box;
+        clear: both;
+    }
 
-.room div img {
-    width: 75%;
-    border-radius: 5px;
-}
+    .room div img {
+        width: 75%;
+        border-radius: 5px;
+    }
 }
 
 /* For small screen sizes from 570px wide and down */

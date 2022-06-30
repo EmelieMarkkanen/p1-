@@ -581,6 +581,11 @@ footer p {
 
 @media only screen and (max-width: 400px) {
 
+    .menu li {
+        clear: both;
+        font-size: small;
+    }
+
     .information {
         height: 40em;
     }

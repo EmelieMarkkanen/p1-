@@ -386,6 +386,7 @@ footer p {
 
 .page-not-found-div a {
     text-decoration: none;
+    color: #5f7161;
 }
 
 .page-not-found-div a:hover {

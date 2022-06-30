@@ -384,6 +384,14 @@ footer p {
     font-style: italic;
 }
 
+.page-not-found-div a {
+    text-decoration: none;
+}
+
+.page-not-found-div a:hover {
+    color: #d0c9c0;
+}
+
 /* Media queries */
 
 /* For medium to large screen sizes from 1051px and up */

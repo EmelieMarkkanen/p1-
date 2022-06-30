@@ -31,6 +31,9 @@ The website consists of a landing page with an introduction to the hotel and a l
 - [Wireframes](#wireframes)
 - [Technology](#technology)
     - [Languages used](#languages-used)
+- [Testing](#testing)
+    - [Guest experience](#guest-experience)
+    - [Code testing](#code-testing)
 - [Credits](#credits)
     - [Content](#content)
     - [Acknowledgement](#acknowledgement)
@@ -74,12 +77,16 @@ I have used [Pexels](https://www.pexels.com/sv-se/) as a source for images.
 ## Features
 
 ### Responsive
+The website is responsive to all screen sizes.
 
 ### Booking
+The website contain a booking form for potential guests to send a reservation.
 
 ### Social
+The website contain links to social media sites and a travel guidance site
 
 ### Information
+The website contain information about the hotel, location, restaurant options, room options and information about the spa. There are links to PDF:s containing a menu for the restaurant and a list of spa treatments. 
 
 ## Wireframes
 
@@ -95,6 +102,11 @@ For this project I’ve used HTML5 and CSS.
 - [HTML5](https://sv.wikipedia.org/wiki/HTML5)
 - [CSS](https://sv.wikipedia.org/wiki/Cascading_Style_Sheets)
 
+## Testing
+
+### Guest experience
+
+### Code testing
 
 ## Credits
 

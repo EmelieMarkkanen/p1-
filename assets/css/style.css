@@ -380,16 +380,12 @@ footer p {
     display: inline-block;
 }
 
-.page-not-found-div h1 {
-    font-style: italic;
-}
-
-.page-not-found-div a {
+.page-not-found-h2 a {
     text-decoration: none;
     color: #5f7161;
 }
 
-.page-not-found-div a:hover {
+.page-not-found-h2 a:hover {
     color: #d0c9c0;
 }
 

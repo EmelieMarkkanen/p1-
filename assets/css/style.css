@@ -134,7 +134,7 @@ h3 {
 
 .reply {
     letter-spacing: 2px;
-    text-align: justify center;
+    text-align: center;
     color: #5f7161;
     line-height: 20px;
     height: 20%;
@@ -267,7 +267,6 @@ footer p {
 
 .restaurantinfo {
     float: right;
-    text-align: ;
     box-sizing: border-box;
     padding: 0 1em 0 1em;
     color: #efead8;
@@ -305,7 +304,6 @@ footer p {
 }
 
 .room div {
-    display: ;
     text-align: center;
     color: #5f7161;
     width: 100%;
@@ -340,7 +338,6 @@ footer p {
 
 .spatreatments {
     float: left;
-    text-align: ;
     box-sizing: border-box;
     padding: 0 1em 0 1em;
     color: #efead8;
@@ -365,7 +362,7 @@ footer p {
 
 .page-not-found {
     letter-spacing: 2px;
-    text-align: justify center;
+    text-align: center;
     color: #5f7161;
     line-height: 20px;
     height: 20%;
@@ -528,7 +525,6 @@ footer p {
     }
 
     .room div {
-        display: ;
         text-align: center;
         color: #5f7161;
         width: 100%;

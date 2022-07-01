@@ -32,7 +32,7 @@
     </header>
     <section class="form">
         <div class="booking-form">
-            <form action="thankyou.html" method="get">
+            <form action="thankyou.html" method="get"></form>
                 <label for="fname">First Name</label>
                 <input id="fname" type="text" name="first_name" class="text-input" required>
 
@@ -55,7 +55,7 @@
                 <input id="city" type="text" name="city" class="text-input" required>
                 <br>
                 <label for="rooms">Choice of room</label>
-                <select name="rooms" id="rooms" class="text-input choice-of-room" required>
+                <select name="rooms" id="rooms" class="text-input choice-of-room">
                     <optgroup label="Rooms">
                         <option value="regular">Regular</option>
                         <option value="suite">Suite</option>
@@ -64,8 +64,7 @@
                         <option value="tent">Glamping tent</option>
                     </optgroup>
                 </select>
-            </div>
-            <div class="form2">
+
                 <label for="arrival-date">Date of arrival:</label>
                 <input type="date" id="arrival-date" name="arrival-date" class="text-input arrival-date" required>
 
@@ -79,6 +78,7 @@
                 <input type="number" id="children" name="children" min="0" max="9" class="text-input number-of-children" required>
                 <br>
                 <label for="message1" class="message1">Requests or additional information</label>
+                <br>
                 <textarea name="message" id="message1" rows="6" cols="40" class="text-input"></textarea>
                 <label for="message2" class="message2">Requests or additional information</label><br>
                 <textarea name="message" id="message2" rows="6" cols="20" class="text-input"></textarea>
@@ -87,5 +87,4 @@
         </div>
     </section>
 </body>
-
 </html>

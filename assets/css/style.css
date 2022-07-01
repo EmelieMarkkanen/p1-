@@ -442,14 +442,12 @@ s
         height: auto;
         width: 35%;
         margin: 1em;
-        clear: ;
     }
 
     .terrace img {
         display: inline;
         width: 55%;
         height: 25em;
-        position: ;
         border-radius: 100%;
     }
 

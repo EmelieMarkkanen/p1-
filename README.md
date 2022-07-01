@@ -109,19 +109,27 @@ For this project I’ve used HTML5 and CSS.
 ### Code testing
 
 Code validated trough W3C CSS and HTML validator
-- CSS [result]()
+- CSS [result](assets/images/Screenshots/css-validation.jpg)
+- HTML 
+    - Landing page
+    - Booking form
+    - Thank you reply
+    - Eat
+    - Sleep
+    - Relax
+    - 404 
 
 ## Credits
 
-#### Content 
+### Content 
 All content is written by me
 
-#### Acknowledgement
+### Acknowledgement
 - Code institute for excellent teaching
 - My mentor Rohit for valuable input
 - Caliban cat for emotional support and cuddle breaks
 
-####  External sources used: 
+###  External sources used: 
 - [Pexels](https://www.pexels.com/sv-se/) - Images
 - [Colorhunt](https://colorhunt.co/palette/5f71616d8b74efead8d0c9c0) - Color scheme suggestion
 - [w3resource](https://www.w3resource.com/icon/font-awesome/brand-icons/tripadvisor.php) - Tripadvisor icon

@@ -108,6 +108,9 @@ For this project I’ve used HTML5 and CSS.
 
 ### Code testing
 
+Code validated trough W3C CSS and HTML validator
+- CSS [result]()
+
 ## Credits
 
 #### Content 

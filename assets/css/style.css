@@ -1,12 +1,6 @@
 /* Font from https://fonts.google.com/ */
 @import url('https://fonts.googleapis.com/css2?family=Domine:wght@600&family=Lato:wght@300&display=swap'); 
 
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-
 body {
     font-family: Lato, sans-serif;
     background-color: #efead8;
@@ -130,6 +124,14 @@ h3 {
     display: block;
 }
 
+.message2 {
+    display: none;
+}
+
+#message2 {
+    display: none;
+}
+
 /* Styling for thank you reply for booking form */
 
 .reply {
@@ -168,11 +170,10 @@ h3 {
     float: left;
     font-size: 100%;
     letter-spacing: 2px;
-    width: 38%;
+    width: 40%;
     height: 25em;
     color: #efead8;
     margin-top: 2em;
-    margin-left: 1em;
     border-radius: 5px;
     padding: 1em;
     background-color: rgba(95, 113, 97, .4);
@@ -188,7 +189,7 @@ h3 {
 
 .terrace img {
     float: right;
-    width: 58%;
+    width: 55%;
     height: 27em;
     margin-top: 2em;
     margin-right: 1em;
@@ -390,17 +391,9 @@ footer p {
 
 /* Media queries */
 
-/* For medium to large screen sizes from 1051px and up */
+/* For medium to large screen sizes from 1600px and up */
 
-@media (min-width: 1051px) {
-
-    .header-logo {
-        display: inline-block;
-    }
-
-    .header-icon {
-        display: none;
-    }
+@media (min-width: 1600px) {
 
     #message2 {
         display: none;
@@ -413,12 +406,21 @@ footer p {
     #message1 {
         display: inline-block;
     }
+
+    .header-icon {
+        display: none;
+    }
+
+    .header-logo {
+        display: inline-block;
+    }
 }
 
-/* For screen sizes from 1050px wide and down */
 
-@media only screen and (max-width: 1050px) {
+/* For screen sizes from 1200px wide and down */
 
+@media only screen and (max-width: 1200px) {
+s
     .hero-image {
         width: 100%;
         margin: 0 auto;
@@ -433,50 +435,34 @@ footer p {
     }
 
     .information {
-        height: 25em;
+        height: 30em;
     }
 
     .hotel-info {
         height: auto;
-        width: auto;
+        width: 35%;
         margin: 1em;
-    }
-
-    #message1 {
-        display: none;
-    }
-
-    .message1 {
-        display: none;
-    }
-
-    #message2 {
-        display: inline-block;
-        clear: both;
+        clear: ;
     }
 
     .terrace img {
-        display: none;
-    }
-
-    .header-logo {
-        display: none;
-    }
-
-    .header-icon {
-        display: inline-block;
-        padding-left: 1em;
-        color: #6d8b74;
-        margin: 0;
-        font-size: 300%;
-    }
-
-    .header-icon:hover {
-        color: #5f7161;
+        display: inline;
+        width: 55%;
+        height: 25em;
+        position: ;
+        border-radius: 100%;
     }
 
     .menu {
         margin: 0;
+    }
+
+    .message2 {
+        display: none;
+    }
+
+    #message2 {
+        display: none;
     }
 
     .navbar {
@@ -542,12 +528,16 @@ footer p {
     }
 }
 
-/* For medium to small screen sizes from 570px wide and down */
+/* For medium to small screen sizes from 970px wide and down */
 
-@media only screen and (max-width: 570px) {
+@media only screen and (max-width: 970px) {
 
     .information {
-        height: 30em;
+        height: 25em;
+    }
+
+    .header-logo {
+        display: none;
     }
 
     .hotel-info {
@@ -556,9 +546,26 @@ footer p {
         margin: 1em 0 1em 0;
     }
 
+    .terrace img {
+        display: none;
+    }
+
     .form {
-        width: 75%;
+        width: 40%;
         margin: auto;
+    }
+
+    #message1 {
+        display: none;
+    }
+
+    .message1 {
+        display: none;
+    }
+
+    #message2 {
+        display: inline-block;
+        clear: both;
     }
 
     .reply {
@@ -570,14 +577,14 @@ footer p {
         display: none;
     }
 
-    .navbar li {
-        clear: none;
+    .navbar {
+        float: left;
     }
 }
 
-/* For small screen sizes from 400px wide and down */
+/* For small screen sizes from 550px wide and down */
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 550px) {
 
     .menu li {
         clear: both;
@@ -592,6 +599,11 @@ footer p {
         width: auto;
         height: auto;
         margin: 1em 0 1em 0;
+    }
+
+    .form {
+        width: 80%;
+        margin: auto;
     }
 
     .spatreatments {

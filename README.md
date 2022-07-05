@@ -43,7 +43,7 @@ The website consists of a landing page with an introduction to the hotel and a l
 
 ## Screenshots of website
 ### Landing page
-![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Stockholm-spa-hotel-screenshot.jpg)
+![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Stockholm-spahotel-screenshot.jpg)
 
 ### Booking form
 ![Booking form](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Booking-form-screenshot.jpg)

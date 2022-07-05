@@ -93,16 +93,20 @@ I have used [Pexels](https://www.pexels.com/sv-se/) as a source for images.
 ## Features
 
 ### Responsive
-The website is responsive to all screen sizes.
+The website is responsive to multiple screen sizes.
 
 ### Booking
-The website contain a booking form for potential guests to send a reservation.
+The website contain a booking form for potential guests to send a reservation that leads to a reply page to confirm the reservation. 
 
 ### Social
 The website contain links to social media sites and a travel guidance site
 
 ### Information
 The website contain information about the hotel, location, restaurant options, room options and information about the spa. There are links to PDF:s containing a menu for the restaurant and a list of spa treatments. 
+
+### Future features
+I would like to add a separate page for contact information with an interactive map and directions on how to get to the location via car or public transport.
+I would like to add videos or sound experience to show for example the rooms and/or the other parts of the location. 
 
 ## Wireframes
 
@@ -141,6 +145,8 @@ Code validated trough W3C CSS and HTML validator
 
 - W3C validator gives a warning that the booking form page section don't have a h1-h6 heading but have chosen to ignore this, the booking form don't need a heading. 
 - W3C validator gives a warning that the index page have empty h1 tags, though they contain symbols from Font Awesome and I've chosen to ignore this. 
+- The link to the booking form don't contain the text, only the leaf symbol, which is not immediately intuitive and is not contributing to a good user experience and I chose to change this so the text is also a part of the link.
+- The font weight of the navbar links could be more visible and I've chosen to change this. 
 
 ### 404
 I created a 404.html file with a message and a link back to the landing page if a user should enter an invalid url. The 404 page also contains a header and navbar.

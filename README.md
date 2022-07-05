@@ -47,6 +47,15 @@ Landing page
 Booking form
 ![Booking form](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Booking-form-screenshot.jpg)
 
+Restaurant
+![Restaurant](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/eat-screenshot.jpg)
+
+Rooms
+![Rooms](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/sleep-screenshot.jpg)
+
+Spa 
+![Spa](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-screenshot.jpg)
+
 Screenshots created using [Am I Responsive](https://ui.dev/amiresponsive)
 
 ## User stories

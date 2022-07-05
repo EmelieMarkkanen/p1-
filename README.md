@@ -1,5 +1,3 @@
-python3 -m http.server
-
 # Stockholm Spa Hotel
 
 ## Milestone project 1

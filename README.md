@@ -37,6 +37,7 @@ The website consists of a landing page with an introduction to the hotel and a l
     - [Code testing](#code-testing)
     - [Known issues](#known-issues)
     - [404](#404)
+- [Deployment](#deployment)
 - [Credits](#credits)
     - [Content](#content)
     - [Acknowledgement](#acknowledgement)
@@ -188,6 +189,22 @@ Code validated trough W3C CSS and HTML validator
 
 ### 404
 I created a 404.html file with a message and a link back to the landing page if a user should enter an invalid url. The 404 page also contains a header and navbar.
+
+## Deployment
+
+### Github pages
+
+The website is deployed via Github pages. 
+
+1. Log in to Github
+2. Navigate to the correct repository, in this case EmelieMarkkanen/p1-stockholm-spa-hotel
+3. Locate and click Settings, at the top of the repository, and continue on to Pages in the leftside column
+4. Under the heading Source click the dropdown menues and choose Branch: Main and Root folder
+5. Click Save
+6. A message will appear and tell you that the page is ready for deployment
+7. Refresh the page and the background to the link to the website should now be green and tell you that the site is ready for publication
+
+You can read more about deploying to Github pages [here](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
 ## Credits
 

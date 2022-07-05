@@ -41,7 +41,6 @@ The website consists of a landing page with an introduction to the hotel and a l
     - [Acknowledgement](#acknowledgement)
     - [External sources used](#external-sources-used)
 
-
 ## Screenshots of website
 ### Landing page
 ![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Stockholm-spa-hotel-screenshot.jpg)

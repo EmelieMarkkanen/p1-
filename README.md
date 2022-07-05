@@ -41,19 +41,19 @@ The website consists of a landing page with an introduction to the hotel and a l
 
 
 ## Screenshots of website
-Landing page
+###Landing page
 ![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Stockholm-spa-hotel-screenshot.jpg)
 
-Booking form
+###Booking form
 ![Booking form](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Booking-form-screenshot.jpg)
 
-Restaurant
+###Restaurant
 ![Restaurant](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/eat-screenshot.jpg)
 
-Rooms
+###Rooms
 ![Rooms](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/sleep-screenshot.jpg)
 
-Spa 
+###Spa 
 ![Spa](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-screenshot.jpg)
 
 Screenshots created using [Am I Responsive](https://ui.dev/amiresponsive)
@@ -127,13 +127,23 @@ For this project I’ve used HTML5 and CSS.
 Code validated trough W3C CSS and HTML validator
 - CSS [result](assets/images/Screenshots/css-validation.jpg)
 - HTML 
-    - Landing page
-    - Booking form
-    - Thank you reply
-    - Eat
-    - Sleep
-    - Relax
-    - 404 
+    - Landing page [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/index-validation.jpg)
+    - Booking form [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/form-validation.jpg)
+    - Thank you reply [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/thankyou-validation.jpg)
+    - Eat [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/eat-validation.jpg)
+    - Sleep [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/sleep-validation.jpg)
+    - Relax [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-validation.jpg)
+    - 404 [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/404-validation.jpg)
+
+All pages pass through Lighthouse with a score of 93 or higher. 
+
+### Known issues
+
+- W3C validator gives a warning that the booking form page section don't have a h1-h6 heading. 
+- W3C validator gives a warning that the index page have empty h1 tags, though they contain symbols from Font Awesome and I've chosen to ignore this. 
+
+### 404
+I created a 404.html file with a message and a link back to the landing page if a user should enter an invalid url. The 404 page also contains a header and navbar.
 
 ## Credits
 

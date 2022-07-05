@@ -34,6 +34,7 @@ h3 {
 .menu {
     font-size: 120%;
     letter-spacing: 5px;
+    font-weight: bold;
 }
 
 .menu ul {
@@ -81,7 +82,7 @@ h3 {
     font-size: 130%;
     letter-spacing: 2px;
     text-align: center;
-    width: 20%;
+    width: 15%;
     color: #efead8;
     border-radius: 5px;
     background-color: rgba(95, 113, 97, .5);
@@ -92,8 +93,9 @@ h3 {
 
 #book-now h2 a {
 
-    font-size: 300%;
+    font-size: 150%;
     color: #efead8;
+    text-decoration: none;
 }
 
 #book-now h2 a:hover {

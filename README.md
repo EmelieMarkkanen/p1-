@@ -204,6 +204,8 @@ The website is deployed via Github pages.
 6. A message will appear and tell you that the page is ready for deployment
 7. Refresh the page and the background to the link to the website should now be green and tell you that the site is ready for publication
 
+![Github pages](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/github-pages-screenshot.jpg)
+
 You can read more about deploying to Github pages [here](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
 ## Credits

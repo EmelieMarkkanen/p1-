@@ -42,6 +42,8 @@ The website consists of a landing page with an introduction to the hotel and a l
 
 ## Screenshots of website
 
+![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/index-validation.jpg)
+
 ## User stories
 
 The prospective guest

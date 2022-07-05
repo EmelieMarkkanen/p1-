@@ -36,6 +36,7 @@ The website consists of a landing page with an introduction to the hotel and a l
     - [Known issues](#known-issues)
     - [404](#404)
 - [Deployment](#deployment)
+    - [Github pages](#github-pages)
 - [Credits](#credits)
     - [Content](#content)
     - [Acknowledgement](#acknowledgement)

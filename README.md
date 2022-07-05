@@ -41,19 +41,19 @@ The website consists of a landing page with an introduction to the hotel and a l
 
 
 ## Screenshots of website
-###Landing page
+### Landing page
 ![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Stockholm-spa-hotel-screenshot.jpg)
 
-###Booking form
+### Booking form
 ![Booking form](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Booking-form-screenshot.jpg)
 
-###Restaurant
+### Restaurant
 ![Restaurant](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/eat-screenshot.jpg)
 
-###Rooms
+### Rooms
 ![Rooms](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/sleep-screenshot.jpg)
 
-###Spa 
+### Spa 
 ![Spa](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-screenshot.jpg)
 
 Screenshots created using [Am I Responsive](https://ui.dev/amiresponsive)
@@ -135,11 +135,11 @@ Code validated trough W3C CSS and HTML validator
     - Relax [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-validation.jpg)
     - 404 [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/404-validation.jpg)
 
-All pages pass through Lighthouse with a score of 93 or higher. 
+- All pages pass through Lighthouse with a score of 93 or higher. 
 
 ### Known issues
 
-- W3C validator gives a warning that the booking form page section don't have a h1-h6 heading. 
+- W3C validator gives a warning that the booking form page section don't have a h1-h6 heading but have chosen to ignore this, the booking form don't need a heading. 
 - W3C validator gives a warning that the index page have empty h1 tags, though they contain symbols from Font Awesome and I've chosen to ignore this. 
 
 ### 404

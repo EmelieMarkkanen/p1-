@@ -110,6 +110,7 @@ The website contain information about the hotel, location, restaurant options, r
 ### Future features
 I would like to add a separate page for contact information with an interactive map and directions on how to get to the location via car or public transport.
 I would like to add videos or sound experience to show for example the rooms and/or the other parts of the location. 
+I would like to add a link to the booking form on the page with information about the room options
 
 ## Wireframes
 
@@ -128,6 +129,40 @@ For this project I’ve used HTML5 and CSS.
 ## Testing
 
 ### Guest experience
+
+- As a prospective guest I would like to be able to read information about the hotel and the experience it offers
+    - On the landing page there is a section with concise information about the hotel and the experience it offers
+    - There are links in the navbar to pages containing information about the options for restaurant (Eat), rooms (Sleep) and spa (Relax)
+    - The landing page contain a hero image and a second image showing some features of the hotel
+    - There is a footer with links to social media and a travel guidance website
+    - All links have been tested and work, external links open in a new tab
+
+- As a prospective guest I would like to be able to book a room at the hotel
+    - On the landing page is a link to a booking form
+    - The booking form requires the fields to be filled out and the user will be notified if they missed something
+    - The submit button takes the user to a page with a thank you reply and information about the confirmation for their reservation
+    - There are links in the navbar to pages containing information about the options for restaurant (Eat), rooms (Sleep) and spa (Relax)
+    - All links have been tested and work
+
+- As a prospecive guest I would like to be able to see images of the hotel rooms, prices and what they contain
+    - The navbar link named Sleep takes the user to a page containing information and images of the room options
+    - There are links in the navbar to pages containing information about the options for restaurant (Eat), rooms (Sleep) and spa (Relax)
+    - All links have been tested and work
+    
+- As a prospective guest I would like to see images and find information about the hotel restaurant and it’s menu.
+    - The navbar link named Eat takes the user to a page containing information and images of the restaurant. 
+    - The page contains a link to a PDF of the different menus available
+    - There are links in the navbar to pages containing information about the options for restaurant (Eat), rooms (Sleep) and spa (Relax)
+    - All links have been tested and work
+
+- As a prospective guest I would like to see images and find information about the hotel spa experience and examples of treatment options.
+    - The navbar link named Relax takes the user to a page containing information and images of the spa. 
+    - The page contains a link to a PDF of the different spa treatments available
+    - There are links in the navbar to pages containing information about the options for restaurant (Eat), rooms (Sleep) and spa (Relax)
+    - All links have been tested and work
+
+- As a prospective guest I would like to see contact information to the hotel such as address, email and phonenumber to the hotel.
+    - On the landing page there is a contact section with adress, email, phone and fax number
 
 ### Code testing
 

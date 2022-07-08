@@ -78,7 +78,7 @@ h3 {
 
 /* Styling for book now cover text */
 
-#book-now {
+.book-now {
     font-size: 130%;
     letter-spacing: 2px;
     text-align: center;
@@ -91,14 +91,14 @@ h3 {
     position: absolute;
 }
 
-#book-now h2 a {
+.book-now h2 a {
 
     font-size: 150%;
     color: #efead8;
     text-decoration: none;
 }
 
-#book-now h2 a:hover {
+.book-now h2 a:hover {
     color: #d0c9c0;
 }
 
@@ -126,11 +126,11 @@ h3 {
     display: block;
 }
 
-.message2 {
+.message-two {
     display: none;
 }
 
-#message2 {
+#message-two-textarea {
     display: none;
 }
 
@@ -409,15 +409,15 @@ footer p {
 
 @media (min-width: 1600px) {
 
-    #message2 {
+    #message-two-textarea {
         display: none;
     }
 
-    .message2 {
+    .message-two {
         display: none;
     }
 
-    #message1 {
+    #message-one {
         display: inline-block;
     }
 
@@ -566,15 +566,19 @@ footer p {
         margin: auto;
     }
 
-    #message1 {
+    #message-one-textarea {
         display: none;
     }
 
-    .message1 {
+    .message-one {
         display: none;
     }
 
-    #message2 {
+    .message-two {
+        display: inline-block;
+    }
+
+    #message-two-textarea {
         display: inline-block;
         clear: both;
     }

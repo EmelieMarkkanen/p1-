@@ -46,19 +46,19 @@ The website consists of a landing page with an introduction to the hotel and a l
 
 ## Screenshots of website
 ### Landing page
-![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Stockholm-spahotel-screenshot.jpg)
+![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/Stockholm-spahotel-screenshot.jpg)
 
 ### Booking form
-![Booking form](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Booking-form-screenshot.jpg)
+![Booking form](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/Booking-form-screenshot.jpg)
 
 ### Restaurant
-![Restaurant](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/eat-screenshot.jpg)
+![Restaurant](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/eat-screenshot.jpg)
 
 ### Rooms
-![Rooms](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/sleep-screenshot.jpg)
+![Rooms](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/sleep-screenshot.jpg)
 
 ### Spa 
-![Spa](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-screenshot.jpg)
+![Spa](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/relax-screenshot.jpg)
 
 Screenshots created using [Am I Responsive](https://ui.dev/amiresponsive)
 
@@ -117,7 +117,7 @@ I would like to add a link to the booking form on the page with information abou
 
 I created the wireframe for this project using Balsamiq.
 <br>
-[View PDF of wireframe here](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/pdf/Stockholm%20spa%20hotel%20wireframe.pdf)
+[View PDF of wireframe here](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/pdf/Stockholm%20spa%20hotel%20wireframe.pdf)
 
 ## Technology
 
@@ -174,13 +174,13 @@ For this project I’ve used HTML5 and CSS.
 Code validated trough W3C CSS and HTML validator
 - CSS [result](assets/images/Screenshots/css-validation.jpg)
 - HTML 
-    - Landing page [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/index-validation.jpg)
-    - Booking form [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/form-validation.jpg)
-    - Thank you reply [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/thankyou-validation.jpg)
-    - Eat [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/eat-validation.jpg)
-    - Sleep [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/sleep-validation.jpg)
-    - Relax [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-validation.jpg)
-    - 404 [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/404-validation.jpg)
+    - Landing page [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/index-validation.jpg)
+    - Booking form [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/form-validation.jpg)
+    - Thank you reply [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/thankyou-validation.jpg)
+    - Eat [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/eat-validation.jpg)
+    - Sleep [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/sleep-validation.jpg)
+    - Relax [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/relax-validation.jpg)
+    - 404 [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/404-validation.jpg)
 
 - All pages pass through Lighthouse with a score of 93 or higher. 
 

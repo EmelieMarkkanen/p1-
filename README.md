@@ -125,6 +125,10 @@ For this project I’ve used HTML5 and CSS.
 - [HTML5](https://sv.wikipedia.org/wiki/HTML5)
 - [CSS](https://sv.wikipedia.org/wiki/Cascading_Style_Sheets)
 
+### Other applications used
+- [Github](https://github.com/)
+- [Balsamiq](https://balsamiq.com/)
+
 ## Testing
 
 ### Guest experience
@@ -178,17 +182,36 @@ Code validated trough W3C CSS and HTML validator
 
 - All pages pass through Lighthouse with a score of 93 or higher. 
 
+### Supported browsers and screen sizes 
+
+Testing is done primarily in Google Chrome and Microsoft Edge, which both support this website. Tested in Mozilla Firefox, which is supported but generated some issues with breakpoints for different screen sizes.
+
+The website is responsive to multiple screen sizes with breakpoints at 1600px and up, 1200px wide and down, for medium to small screen sizes from 970px wide and down, and for small screen sizes from 550px wide and down. 
+Tested in Mozilla Firefox, which is supported but generated some issues with breakpoints for different screen sizes.
+
 ### Known issues
 
 - W3C validator gives a warning that the booking form page section don't have a h1-h6 heading but have chosen to ignore this, the booking form don't need a heading. 
 - W3C validator gives a warning that the index page have empty h1 tags, though they contain symbols from Font Awesome and I've chosen to ignore this. 
 - The link to the booking form don't contain the text, only the leaf symbol, which is not immediately intuitive and is not contributing to a good user experience and I chose to change this so the text is also a part of the link.
 - The font weight of the navbar links could be more visible and I've chosen to change this. 
+- Testing in Mozilla Firefox generated faulty breakpoints at 1295px. Responsive to screen sizes above 1295px and from 1200px and below. 
 
 ### 404
 I created a 404.html file with a message and a link back to the landing page if a user should enter an invalid url. The 404 page also contains a header and navbar.
 
 ## Deployment
+
+### Gitpod and Git
+
+The website is built in Gitpod.
+
+1. I created a repository in Github, named it p1-stockholm-spa-hotel, and used the template Code-Institute-Org/gitpod-full-template
+2. Once the repository is created, click the green button to the right (Gitpod) to open Gitpod
+3. In the terminal I've created the html files, index.html, eat.html, form.html etcetera
+4. I created the assets folder to hold the style.css file and images
+5. I created the docs folder to hold PDF:s and screenshots
+6. Once folders and files are created I used Git commands to add the changes in the files to the staging area and push the changes to my repository
 
 ### Github pages
 

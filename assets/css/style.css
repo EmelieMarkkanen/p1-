@@ -439,11 +439,11 @@ footer p {
         margin: 0 auto;
     }
 
-    #book-now {
+    .book-now {
         margin: 0 auto;
     }
 
-    #book-now h2 {
+    .book-now h2 {
         font-size: smaller;
     }
 
@@ -608,6 +608,10 @@ footer p {
     .navbar {
         display: inline-table;
         font-size: smaller;
+    }
+
+    .book-now {
+        width: auto;
     }
 
     .information {

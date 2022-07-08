@@ -324,6 +324,17 @@ footer p {
     border-radius: 5px;
 }
 
+.back-to-top {
+    color: #5f7161;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.back-to-top:hover {
+    color: #6d8b74;
+    border-bottom: 1px solid;
+}
+
 /* Styling for relax page */
 
 .spa {
@@ -420,10 +431,10 @@ footer p {
 }
 
 
-/* For screen sizes from 1200px wide and down */
+/* For screen sizes from 1315px wide and down */
 
-@media only screen and (max-width: 1200px) {
-    s .hero-image {
+@media only screen and (max-width: 1315px) {
+    .hero-image {
         width: 100%;
         margin: 0 auto;
     }
@@ -580,15 +591,19 @@ footer p {
     .navbar {
         float: left;
     }
+
+    .room {
+        width: 100%;
+    }
 }
 
 /* For small screen sizes from 550px wide and down */
 
 @media only screen and (max-width: 550px) {
 
-    .menu li {
-        clear: both;
-        font-size: small;
+    .navbar {
+        display: inline-table;
+        font-size: smaller;
     }
 
     .information {
@@ -629,6 +644,10 @@ footer p {
         margin-bottom: 2em;
         text-align: center;
         clear: both;
+    }
+
+    .room {
+        width: 100%;
     }
 
     .restaurant {

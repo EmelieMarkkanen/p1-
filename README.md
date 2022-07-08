@@ -46,19 +46,19 @@ The website consists of a landing page with an introduction to the hotel and a l
 
 ## Screenshots of website
 ### Landing page
-![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Stockholm-spahotel-screenshot.jpg)
+![Landing page](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/Stockholm-spahotel-screenshot.jpg)
 
 ### Booking form
-![Booking form](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/Booking-form-screenshot.jpg)
+![Booking form](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/Booking-form-screenshot.jpg)
 
 ### Restaurant
-![Restaurant](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/eat-screenshot.jpg)
+![Restaurant](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/eat-screenshot.jpg)
 
 ### Rooms
-![Rooms](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/sleep-screenshot.jpg)
+![Rooms](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/sleep-screenshot.jpg)
 
 ### Spa 
-![Spa](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-screenshot.jpg)
+![Spa](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/relax-screenshot.jpg)
 
 Screenshots created using [Am I Responsive](https://ui.dev/amiresponsive)
 
@@ -117,7 +117,7 @@ I would like to add a link to the booking form on the page with information abou
 
 I created the wireframe for this project using Balsamiq.
 <br>
-[View PDF of wireframe here](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/pdf/Stockholm%20spa%20hotel%20wireframe.pdf)
+[View PDF of wireframe here](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/pdf/Stockholm%20spa%20hotel%20wireframe.pdf)
 
 ## Technology
 
@@ -174,13 +174,13 @@ For this project I’ve used HTML5 and CSS.
 Code validated trough W3C CSS and HTML validator
 - CSS [result](assets/images/Screenshots/css-validation.jpg)
 - HTML 
-    - Landing page [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/index-validation.jpg)
-    - Booking form [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/form-validation.jpg)
-    - Thank you reply [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/thankyou-validation.jpg)
-    - Eat [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/eat-validation.jpg)
-    - Sleep [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/sleep-validation.jpg)
-    - Relax [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/relax-validation.jpg)
-    - 404 [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/404-validation.jpg)
+    - Landing page [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/index-validation.jpg)
+    - Booking form [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/form-validation.jpg)
+    - Thank you reply [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/thankyou-validation.jpg)
+    - Eat [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/eat-validation.jpg)
+    - Sleep [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/sleep-validation.jpg)
+    - Relax [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/relax-validation.jpg)
+    - 404 [result](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/404-validation.jpg)
 
 - All pages pass through Lighthouse with a score of 93 or higher. 
 
@@ -188,7 +188,7 @@ Code validated trough W3C CSS and HTML validator
 
 Testing is done primarily in Google Chrome and Microsoft Edge, which both support this website. Tested in Mozilla Firefox, which is supported but generated some issues with breakpoints for different screen sizes.
 
-The website is responsive to multiple screen sizes with breakpoints at 1600px and up, 1200px wide and down, for medium to small screen sizes from 970px wide and down, and for small screen sizes from 550px wide and down. 
+The website is responsive to multiple screen sizes with breakpoints at 1600px and up, 1315px wide and down, for medium to small screen sizes from 970px wide and down, and for small screen sizes from 550px wide and down. 
 Tested in Mozilla Firefox, which is supported but generated some issues with breakpoints for different screen sizes.
 
 ### Known issues
@@ -227,7 +227,7 @@ The website is deployed via Github pages.
 6. A message will appear and tell you that the page is ready for deployment
 7. Refresh the page and the background to the link to the website should now be green and tell you that the site is ready for publication
 
-![Github pages](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/assets/images/Screenshots/github-pages-screenshot.jpg)
+![Github pages](https://github.com/EmelieMarkkanen/p1-stockholm-spa-hotel/blob/main/docs/Screenshots/github-pages-screenshot.jpg)
 
 You can read more about deploying to Github pages [here](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 

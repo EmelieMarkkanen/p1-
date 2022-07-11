@@ -189,7 +189,6 @@ Code validated trough W3C CSS and HTML validator
 Testing is done primarily in Google Chrome and Microsoft Edge, which both support this website. Tested in Mozilla Firefox, which is supported but generated some issues with breakpoints for different screen sizes.
 
 The website is responsive to multiple screen sizes with breakpoints at 1600px and up, 1315px wide and down, for medium to small screen sizes from 970px wide and down, and for small screen sizes from 550px wide and down. 
-Tested in Mozilla Firefox, which is supported but generated some issues with breakpoints for different screen sizes.
 
 ### Known issues
 
